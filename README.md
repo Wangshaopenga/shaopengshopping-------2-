@@ -1,5 +1,7 @@
 # shaopengshopping
-
+第一个项目 BUG多多 
+是移动端项目
+API是[API文档](https://www.showdoc.com.cn/1207745568269674/6094279351627422)
 ## Project setup
 ```
 yarn install
